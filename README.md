@@ -15,18 +15,18 @@ A: Maximum of positive score is greater in Bitcoin(0.32600>0.311000).
 
 Bitcoin Sentiment
 
-![](BitcoinSentiment.png)
+![](BitcoinSentiment.jpg)
 
 Ethereum Sentiment
 
-![](EthereumSentiment.png)
+![](EthereumSentiment.jpg)
 
 ---
 
 ## Bitcoin Word Cloud
 
-![](BitcoinWordCloud.png)
+![](BitcoinWordCloud.jpg)
 
 ## Ethereum Word Cloud
 
-![](EthereumWordCloud.png)
+![](EthereumWordCloud.jpg)
